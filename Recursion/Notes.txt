@@ -1,0 +1,13 @@
+Recursion :
+
+    It is a way of solving a problem by having a function calling itself again and again
+
+Where will be the recursion used :
+
+    DS and Algo : Tress and Graphs
+    Algorithm   : Divide and Conquer 
+                  Greedy and Dynamic algorithms
+
+How it is gonna work :
+ 
+    
